@@ -1,0 +1,6 @@
+{
+  "name": "Pathfinder Global School - Student & Academic Portal",
+  "description": "Official digital portal and responsive student dashboard for Pathfinder Global School featuring attendance tracking, timetables, coursework, examinations, fee status, and circulars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
